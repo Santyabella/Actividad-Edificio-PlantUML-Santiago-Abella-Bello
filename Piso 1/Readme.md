@@ -1,4 +1,4 @@
-# Piso 1 - Fundamentos de PlantUML
+# Piso 1 - Requisitos de PlantUML
 
 Esta carpeta contiene los ejercicios y diagramas
 correspondientes a los retos del piso 1 del edificio.
